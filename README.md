@@ -4,6 +4,12 @@ Refer to [SpyderXu](https://github.com/SpyderXu/multi-object-tracking-paper-list
 
 * A simple baseline for one-shot multi-object tracking [[paper](https://arxiv.org/pdf/2004.01888.pdf)] [[code](https://github.com/ifzhang/FairMOT)]
 
+
+* Multiple Object Tracking with Siamese Track-RCNN  [[paper](https://arxiv.org/pdf/2004.07786.pdf)] [[code]()]
+
+
+
+
 # Online
 |                             Name                             |                            Source                            | Publication |    Notes     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: | :----------: |
